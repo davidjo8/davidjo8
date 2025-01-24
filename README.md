@@ -1,0 +1,6 @@
+- 👋 Hi, I’m David Canarsky
+- 👀 I’m interested in anime, games, family, friends and God.
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Backend Software Development through Java.
+- 📫 How to reach me davidjosephgpa@gmail.com
+- ⚡ Fun fact: I know 3 languages and have been every continent except 1, take a guess which 😉
